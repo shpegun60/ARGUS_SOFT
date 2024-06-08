@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (12.3.rel1)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/printf/printf.c 
+
+OBJS += \
+./Utility/printf/printf.o 
+
+C_DEPS += \
+./Utility/printf/printf.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+Utility/printf/printf.o: C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/printf/printf.c Utility/printf/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -g3 -DPRINTF_SUPPORT_DECIMAL_SPECIFIERS=1 -DSPI_MAX_BAUDRATE=21000000 -DUSE_HAL_DRIVER -DSTM32F401xE -DSPI_DEFAULT_SLAVE=1 -DUSE_HW_DIV=1 -DUSE_64BIT_MUL=1 -DDEBUG -c -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Core/Inc" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/CMSIS/Include" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/STM32F4xx_HAL_Driver/Inc" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/CMSIS/Device/ST/STM32F4xx/Include" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/ExampleApp" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/Utility" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/Platform/STM32F4xx" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Test" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Xtalk-CLI" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+
+clean: clean-Utility-2f-printf
+
+clean-Utility-2f-printf:
+	-$(RM) ./Utility/printf/printf.cyclo ./Utility/printf/printf.d ./Utility/printf/printf.o ./Utility/printf/printf.su
+
+.PHONY: clean-Utility-2f-printf
+

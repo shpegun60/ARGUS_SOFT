@@ -1,0 +1,2 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/irq.c:53:6:IRQ_UNLOCK	8	static,ignoring_inline_asm
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/irq.c:72:6:IRQ_LOCK	4	static,ignoring_inline_asm

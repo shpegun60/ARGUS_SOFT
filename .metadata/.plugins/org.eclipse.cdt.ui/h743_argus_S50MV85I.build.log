@@ -1,0 +1,10 @@
+08:02:29 **** Incremental Build of configuration Debug for project h743_argus_S50MV85I ****
+make -j16 all 
+arm-none-eabi-size  h743_argus_S50MV85I.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 181824	    568	  31072	 213464	  341d8	h743_argus_S50MV85I.elf
+Finished building: default.size.stdout
+ 
+
+08:02:29 Build Finished. 0 errors, 0 warnings. (took 235ms)
+

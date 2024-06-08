@@ -1,0 +1,12 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:190:10:ExplorerApp_InitTasks	24	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:230:6:ExplorerApp_Run	8	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:238:6:ExplorerApp_SwitchContext	8	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:243:17:OnError	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:257:13:Task_EvaluateMeasurementData	48	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:295:13:Task_SendMeasurementData	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:342:13:Task_HandleCommand	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:350:13:Task_Error	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:362:13:Task_Idle	40	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:431:10:ExplorerApp_MeasurementReadyCallback	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:448:13:SCI_ErrorCallbackHandler	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/explorer_tasks.c:453:17:SCI_RxCommandCallbackHandler	24	static

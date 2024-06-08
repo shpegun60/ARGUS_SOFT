@@ -1,0 +1,6 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/Drivers/CMSIS/Include/core_cm4.h:1939:34:__NVIC_SystemReset	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/board/board.c:54:10:Board_Init	4
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/board/board.c:89:6:Board_Reset	0
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/board/board.c:94:6:Board_CheckReset	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/board/board.c:99:6:Board_EnableDevice	4
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/board/board.c:120:6:Board_DisableDevice	4

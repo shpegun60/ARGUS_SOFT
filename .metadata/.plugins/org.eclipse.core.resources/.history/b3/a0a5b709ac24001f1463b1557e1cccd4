@@ -1,0 +1,9 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:68:6:ExplorerApp_GetDebugModeEnabled	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:73:10:ExplorerApp_SetDebugMode	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:81:6:ExplorerApp_GetDefaultConfiguration	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:95:6:ExplorerApp_GetConfiguration	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:104:10:ExplorerApp_SetConfiguration	40	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:160:10:ExplorerApp_SetDeviceMeasurementMode	40	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:178:10:ExplorerApp_ResetDeviceMeasurementMode	32	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:193:20:ExplorerApp_GetDataOutputMode	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_cfg.c:199:6:ExplorerApp_ResetDefaultDataStreamingMode	24	static

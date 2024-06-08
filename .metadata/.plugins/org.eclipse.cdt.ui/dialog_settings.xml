@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="${workspace_loc:/${ProjName}/utility}"/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex.detail" value="0"/>
+		<item key="askReindex" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="1382"/>
+		<item key="size.height" value="552"/>
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="SpiTransferInterruptCallback"/>
+			<item value="includeboardh"/>
+			<item value="board"/>
+			<item value="HandleError"/>
+			<item value="Board_Init"/>
+			<item value="_vStackTop"/>
+			<item value="status_tprintconstchar*fmt_s"/>
+			<item value="UART2_IsTxBusy"/>
+			<item value="__printf__"/>
+			<item value="snprintf_"/>
+			<item value="_putchar"/>
+			<item value="UART_CheckBaudRate"/>
+			<item value="UART_Print"/>
+			<item value="printconstchar*fmt_s"/>
+			<item value="print"/>
+			<item value="USER_UART_IRQHandler"/>
+			<item value="HAL_SPI_AbortCpltCallback"/>
+			<item value="S2PI_WriteGpioPin"/>
+			<item value="S2PI_PWR1_GPIO"/>
+			<item value="S2PI_EN4_GPIO"/>
+			<item value="S2PI_CS4_PORTCLK_ENB"/>
+			<item value="S2PI_CS1_PORTCLK_ENB"/>
+			<item value="PORTCLK_ENB"/>
+			<item value="S2PI_IRQ1_EXTI"/>
+			<item value="S2PI_SLAVE_NONE"/>
+			<item value="S2PI_Init"/>
+			<item value="S2PI_SetBaudRate"/>
+			<item value="S2PI_GetBaudRate"/>
+			<item value="S2PI_SetSlave"/>
+			<item value="S2PI_SetSlaveInternal"/>
+			<item value="S2PI_PWR1_PORTCLK_ENB"/>
+		</list>
+	</section>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item key="DIALOG_X_ORIGIN" value="1089"/>
+		<item key="DIALOG_Y_ORIGIN" value="416"/>
+		<item key="DIALOG_WIDTH" value="398"/>
+		<item key="DIALOG_HEIGHT" value="438"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
+</section>

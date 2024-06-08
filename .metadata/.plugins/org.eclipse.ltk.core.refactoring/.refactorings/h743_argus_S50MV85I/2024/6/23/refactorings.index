@@ -1,0 +1,6 @@
+1717780689146	Move 'printf.c' to 'Utility'
+1717780695164	Move 'printf.h' to 'Utility'
+1717780811859	Rename resource 'printf.c'
+1717780823620	Rename resource 'printf.h'
+1717781115320	Rename resource 'app_core.cpp'
+1717781370381	Rename resource 'Utility'

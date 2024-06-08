@@ -1,0 +1,13 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:108:10:SCI_Init	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:128:6:SCI_SetRxCommandCallback	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:132:6:SCI_RemoveRxCommandCallback	4	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:136:6:SCI_SetErrorCallback	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:140:6:SCI_RemoveErrorCallback	4	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:145:10:SCI_SetRxCommand	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:149:10:SCI_SetPostRxCommand	24	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:153:10:SCI_SetTxCommand	16	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:157:10:SCI_SetRxTxCommand	24	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:163:10:SCI_SetCommand	32	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:188:10:SCI_UnsetCommand	24	static
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:205:10:SCI_InvokeRxCommand	48	static,ignoring_inline_asm
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.c:324:10:SCI_SendCommand	48	static

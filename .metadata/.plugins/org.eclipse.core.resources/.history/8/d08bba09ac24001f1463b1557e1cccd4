@@ -1,0 +1,24 @@
+App/sci/sci_cmd.o: \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_status.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/utility/status.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/api/argus_status.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_frame.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_internal_types.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/utility/time.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/platform/argus_timer.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_datalink.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../Sources/Platform/STM32F4xx/board/board.h
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_status.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/utility/status.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/api/argus_status.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_frame.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_internal_types.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/utility/time.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../AFBR-S50/Include/platform/argus_timer.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_datalink.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_ExplorerApp_F401RE/../../../Sources/Platform/STM32F4xx/board/board.h:

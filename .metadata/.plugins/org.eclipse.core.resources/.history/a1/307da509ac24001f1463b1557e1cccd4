@@ -1,0 +1,24 @@
+Utility/debug.o: \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/debug.c \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/debug.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/platform/argus_print.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_def.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_status.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_version.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/utility/fp_def.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/utility/time.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/platform/argus_timer.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/utility/status.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_status.h \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/Platform/STM32F4xx/board/board.h
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/debug.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/platform/argus_print.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_def.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_status.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_version.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/utility/fp_def.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/utility/time.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/platform/argus_timer.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/utility/status.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include/api/argus_status.h:
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/Platform/STM32F4xx/board/board.h:

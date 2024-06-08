@@ -1,0 +1,9 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:124:17:RxCmd_Ping	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:135:10:SCI_SendStatusReport	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:139:17:RxCmd_StatusReport	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:146:17:TxCmd_StatusReport	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:162:17:RxCmd_TestMessage	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:166:17:TxCmd_TestMessage	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:181:17:RxCmd_SystemReset	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:192:17:PrxCmd_SystemReset	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/sci/sci_cmd.c:206:10:SCI_CMD_Init	5

@@ -1,0 +1,10 @@
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:69:17:CheckConnectedDevice	11
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:121:15:ExplorerApp_GetArgusPtr	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:129:14:ExplorerApp_GetExplorerPtr	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:135:14:ExplorerApp_GetExplorerPtrFromArgus	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:149:9:ExplorerApp_GetInitializedExplorerCount	3
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:160:14:ExplorerApp_GetInitializedExplorer	2
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:168:14:ExplorerApp_GetDeviceID	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:174:10:ExplorerApp_InitDevice	8
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:241:10:ExplorerApp_DeviceReinit	1
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_device.c:252:10:ExplorerApp_InitExplorer	9

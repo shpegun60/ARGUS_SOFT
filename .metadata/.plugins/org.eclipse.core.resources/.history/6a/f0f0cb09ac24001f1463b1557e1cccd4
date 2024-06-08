@@ -1,0 +1,4 @@
+Utility/printf/printf.o: \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/printf/printf.c \
+ C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/printf/printf.h
+C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Utility/printf/printf.h:

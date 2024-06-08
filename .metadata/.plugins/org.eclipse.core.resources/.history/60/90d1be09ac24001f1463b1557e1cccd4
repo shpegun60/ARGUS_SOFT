@@ -1,0 +1,2 @@
+../Core/Src/main.c:73:6:SystemClock_Config	3
+../Core/Src/main.c:122:6:Error_Handler	0
