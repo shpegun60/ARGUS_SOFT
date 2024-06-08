@@ -1,0 +1,2 @@
+../app_core/app_core.c:25:6:HandleError	24	static,ignoring_inline_asm
+../app_core/app_core.c:40:6:app_main	16	static
