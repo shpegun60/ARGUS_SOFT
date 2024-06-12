@@ -1,7 +1,0 @@
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:97:15:Scheduler_Init	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:105:10:Scheduler_AddTask	6
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:133:10:Scheduler_PostEvent	6
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:166:6:Scheduler_IsTaskPending	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:172:6:Scheduler_Run	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:181:6:Scheduler_SwitchContext	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/tasks/task_scheduler.c:191:20:ScheduleNext	5

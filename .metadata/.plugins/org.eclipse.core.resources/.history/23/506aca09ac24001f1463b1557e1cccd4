@@ -1,5 +1,0 @@
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/timer.c:46:6:Timer_Init	8	static
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/timer.c:93:6:Timer_GetCounterValue	16	static
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/timer.c:126:10:Timer_SetInterval	24	static
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/timer.c:181:10:Timer_SetCallback	16	static
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/timer.c:192:6:HAL_TIM_PeriodElapsedCallback	16	static

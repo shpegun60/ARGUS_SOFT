@@ -1,6 +1,0 @@
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_utils.c:71:6:ExplorerApp_SuspendTimerMeasurement	3
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_utils.c:84:10:ExplorerApp_StartTimerMeasurement	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_utils.c:93:10:ExplorerApp_StopTimerMeasurement	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_utils.c:100:10:ExplorerApp_SingleMeasurement	2
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_utils.c:112:10:ExplorerApp_DeviceAbort	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExplorerApp/core/core_utils.c:119:6:ExplorerApp_DisplayUnambiguousRange	1

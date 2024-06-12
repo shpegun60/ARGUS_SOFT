@@ -1,21 +1,10 @@
-09:40:36 **** Build of configuration Debug for project AFBR_S50_Example_F401RE ****
+03:39:08 **** Build of configuration Debug for project AFBR_S50_Example_F401RE ****
 make -j16 all 
-arm-none-eabi-gcc "C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExampleApp/examples/01_simple_example.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DPRINTF_SUPPORT_DECIMAL_SPECIFIERS=1 -DSPI_MAX_BAUDRATE=21000000 -DUSE_HAL_DRIVER -DSTM32F401xE -DSPI_DEFAULT_SLAVE=1 -DUSE_HW_DIV=1 -DUSE_64BIT_MUL=1 -DDEBUG -c -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Core/Inc" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/CMSIS/Include" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/STM32F4xx_HAL_Driver/Inc" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/CMSIS/Device/ST/STM32F4xx/Include" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/ExampleApp" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/Utility" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../Sources/Platform/STM32F4xx" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Include" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Test" -I"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Xtalk-CLI" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"App/examples/01_simple_example.d" -MT"App/examples/01_simple_example.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "App/examples/01_simple_example.o"
-arm-none-eabi-gcc -o "AFBR_S50_Example_F401RE.elf" @"objects.list"  -lafbrs50_m4_fpu -mcpu=cortex-m4 -T"C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\AFBR-S50-API\Projects\STM32CubeIDE\AFBR_S50_Example_F401RE\STM32F401RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="AFBR_S50_Example_F401RE.map" -Wl,--gc-sections -static -L"C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Projects/STM32CubeIDE/AFBR_S50_Example_F401RE/../../../AFBR-S50/Lib" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: AFBR_S50_Example_F401RE.elf has a LOAD segment with RWX permissions
-Finished building target: AFBR_S50_Example_F401RE.elf
- 
 arm-none-eabi-size  AFBR_S50_Example_F401RE.elf 
-arm-none-eabi-objdump -h -S AFBR_S50_Example_F401RE.elf  > "AFBR_S50_Example_F401RE.list"
-arm-none-eabi-objcopy  -O binary AFBR_S50_Example_F401RE.elf  "AFBR_S50_Example_F401RE.bin"
    text	   data	    bss	    dec	    hex	filename
  154072	  33000	  35288	 222360	  36498	AFBR_S50_Example_F401RE.elf
 Finished building: default.size.stdout
  
-Finished building: AFBR_S50_Example_F401RE.bin
- 
-Finished building: AFBR_S50_Example_F401RE.list
- 
 
-09:40:37 Build Finished. 0 errors, 1 warnings. (took 816ms)
+03:39:08 Build Finished. 0 errors, 0 warnings. (took 310ms)
 

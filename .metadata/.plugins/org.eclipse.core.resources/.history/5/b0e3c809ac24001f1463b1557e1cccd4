@@ -1,5 +1,0 @@
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/flash.c:120:10:Flash_Init	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/flash.c:130:10:Flash_Read	5
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/flash.c:142:10:Flash_Write	18
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/flash.c:213:10:Flash_Clear	17
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/Platform/STM32F4xx/driver/flash.c:272:10:Flash_ClearAll	1

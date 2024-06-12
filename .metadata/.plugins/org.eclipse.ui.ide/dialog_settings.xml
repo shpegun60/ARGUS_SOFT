@@ -7,9 +7,11 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\h743_argus_S50MV85I"/>
+			<item value="C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\h743_argus_S50MV85I_ExplorerApp"/>
+			<item value="C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\h743_argus_S50MV85I_Explorer"/>
 			<item value="C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\AFBR-S50-API\Projects\STM32CubeIDE\AFBR_S50_ExplorerApp_F401RE"/>
 			<item value="C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\AFBR-S50-API\Projects\STM32CubeIDE\AFBR_S50_Example_F401RE"/>
-			<item value="C:\Users\admin\Documents\Work\STM32\ARGUS_SOFT\h743_argus_S50MV85I"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

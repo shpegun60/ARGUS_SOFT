@@ -1,5 +1,0 @@
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExampleApp/examples/01_simple_example.c:60:21:InitializeDevice	2
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExampleApp/examples/01_simple_example.c:102:13:TriggerMeasurementBlocking	3
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExampleApp/examples/01_simple_example.c:152:13:PrintResults	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExampleApp/examples/01_simple_example.c:180:13:PrintDeviceInfo	1
-C:/Users/admin/Documents/Work/STM32/ARGUS_SOFT/AFBR-S50-API/Sources/ExampleApp/examples/01_simple_example.c:206:6:ExampleMain	1

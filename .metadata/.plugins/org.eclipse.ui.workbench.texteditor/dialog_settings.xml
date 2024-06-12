@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="IrqCallback"/>
+		<item key="selection" value=" DMA_FLAG_TCIF"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="BaudRatePrescaler"/>
-			<item value="S2PI_InitPins"/>
-			<item value="GPIOs"/>
-			<item value="SlaveIrqMapping"/>
-			<item value="S2PI_SetSlave"/>
-			<item value="S2PI_SetSlaveInternal"/>
+			<item value="ExplorerApp_InitCommands"/>
+			<item value="print"/>
+			<item value="UART_SendBuffer"/>
+			<item value="SpiTransferFromSpiInterruptCallback"/>
+			<item value="SpiTransferFromGpioInterrupt"/>
+			<item value="SpiTransferFromSpiInterrupt"/>
+			<item value="SPI Transfer from SPI Interrupt Test"/>
+			<item value="Invoking SPI transfer from task level.."/>
 		</list>
 		<list key="replacehistory">
 		</list>

@@ -1,0 +1,825 @@
+AFBR-S50 Crosstalk (1.5.6-20240208081753)
+<?xml version="1.0" encoding="utf-16"?>
+<ArgusCalibrationXtalk>
+  <Overwrite>True</Overwrite>
+  <InternalXtalkTrimVectorScaling>
+    <S>0</S>
+    <C>0</C>
+  </InternalXtalkTrimVectorScaling>
+  <TemperatureCoefficient_R01_hT_A>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R01_hT_A>
+  <TemperatureCoefficient_R23_hT_A>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R23_hT_A>
+  <TemperatureCoefficient_R01_lT_A>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R01_lT_A>
+  <TemperatureCoefficient_R23_lT_A>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R23_lT_A>
+  <TemperatureCoefficient_R01_hT_B>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R01_hT_B>
+  <TemperatureCoefficient_R23_hT_B>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R23_hT_B>
+  <TemperatureCoefficient_R01_lT_B>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R01_lT_B>
+  <TemperatureCoefficient_R23_lT_B>
+    <S>0</S>
+    <C>0</C>
+  </TemperatureCoefficient_R23_lT_B>
+  <GlobalCrosstalkVectorS>
+    <Nominal>0</Nominal>
+  </GlobalCrosstalkVectorS>
+  <GlobalCrosstalkVectorC>
+    <Nominal>0</Nominal>
+  </GlobalCrosstalkVectorC>
+  <ReferencePixelXtalk>
+    <S>0</S>
+    <C>0</C>
+  </ReferencePixelXtalk>
+  <ExternalXtalk>
+    <ArgusCalibrationXtalkVector X="0" Y="0" Frame="A">
+      <S>-1.5625</S>
+      <C>-3.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="1" Frame="A">
+      <S>-1.75</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="2" Frame="A">
+      <S>-3.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="3" Frame="A">
+      <S>-3.1875</S>
+      <C>-4.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="0" Frame="A">
+      <S>-1.8125</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="1" Frame="A">
+      <S>-1.625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="2" Frame="A">
+      <S>-3.75</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="3" Frame="A">
+      <S>-3.4375</S>
+      <C>-5.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="0" Frame="A">
+      <S>-1.6875</S>
+      <C>-3.875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="1" Frame="A">
+      <S>-1.75</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="2" Frame="A">
+      <S>-3.875</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="3" Frame="A">
+      <S>-3.75</S>
+      <C>-5.5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="0" Frame="A">
+      <S>-1.5625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="1" Frame="A">
+      <S>-1.625</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="2" Frame="A">
+      <S>-4.25</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="3" Frame="A">
+      <S>-3.75</S>
+      <C>-5.3125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="0" Frame="A">
+      <S>-1.6875</S>
+      <C>-4.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="1" Frame="A">
+      <S>-1.75</S>
+      <C>-4.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="2" Frame="A">
+      <S>-4.375</S>
+      <C>-6.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="3" Frame="A">
+      <S>-3.9375</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="0" Frame="A">
+      <S>-2.0625</S>
+      <C>-4.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="1" Frame="A">
+      <S>-2</S>
+      <C>-4.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="2" Frame="A">
+      <S>-4.5</S>
+      <C>-6.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="3" Frame="A">
+      <S>-4.1875</S>
+      <C>-5.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="0" Frame="A">
+      <S>-2.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="1" Frame="A">
+      <S>-2.25</S>
+      <C>-5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="2" Frame="A">
+      <S>-5.0625</S>
+      <C>-7</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="3" Frame="A">
+      <S>-4.8125</S>
+      <C>-6.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="0" Frame="A">
+      <S>-3.25</S>
+      <C>-5.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="1" Frame="A">
+      <S>-3.0625</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="2" Frame="A">
+      <S>-5.125</S>
+      <C>-7.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="3" Frame="A">
+      <S>-4.9375</S>
+      <C>-7.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="0" Frame="B">
+      <S>-1.5625</S>
+      <C>-3.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="1" Frame="B">
+      <S>-1.75</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="2" Frame="B">
+      <S>-3.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="3" Frame="B">
+      <S>-3.1875</S>
+      <C>-4.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="0" Frame="B">
+      <S>-1.8125</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="1" Frame="B">
+      <S>-1.625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="2" Frame="B">
+      <S>-3.75</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="3" Frame="B">
+      <S>-3.4375</S>
+      <C>-5.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="0" Frame="B">
+      <S>-1.6875</S>
+      <C>-3.875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="1" Frame="B">
+      <S>-1.75</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="2" Frame="B">
+      <S>-3.875</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="3" Frame="B">
+      <S>-3.75</S>
+      <C>-5.5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="0" Frame="B">
+      <S>-1.5625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="1" Frame="B">
+      <S>-1.625</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="2" Frame="B">
+      <S>-4.25</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="3" Frame="B">
+      <S>-3.75</S>
+      <C>-5.3125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="0" Frame="B">
+      <S>-1.6875</S>
+      <C>-4.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="1" Frame="B">
+      <S>-1.75</S>
+      <C>-4.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="2" Frame="B">
+      <S>-4.375</S>
+      <C>-6.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="3" Frame="B">
+      <S>-3.9375</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="0" Frame="B">
+      <S>-2.0625</S>
+      <C>-4.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="1" Frame="B">
+      <S>-2</S>
+      <C>-4.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="2" Frame="B">
+      <S>-4.5</S>
+      <C>-6.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="3" Frame="B">
+      <S>-4.1875</S>
+      <C>-5.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="0" Frame="B">
+      <S>-2.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="1" Frame="B">
+      <S>-2.25</S>
+      <C>-5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="2" Frame="B">
+      <S>-5.0625</S>
+      <C>-7</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="3" Frame="B">
+      <S>-4.8125</S>
+      <C>-6.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="0" Frame="B">
+      <S>-3.25</S>
+      <C>-5.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="1" Frame="B">
+      <S>-3.0625</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="2" Frame="B">
+      <S>-5.125</S>
+      <C>-7.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="3" Frame="B">
+      <S>-4.9375</S>
+      <C>-7.0625</C>
+    </ArgusCalibrationXtalkVector>
+  </ExternalXtalk>
+  <InternalXtalk>
+    <ArgusCalibrationXtalkVector X="0" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="0" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="1" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="2" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="3" Frame="A">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="0" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="1" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="2" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="3" Frame="B">
+      <S>0</S>
+      <C>0</C>
+    </ArgusCalibrationXtalkVector>
+  </InternalXtalk>
+  <TotalXtalk>
+    <ArgusCalibrationXtalkVector X="0" Y="0" Frame="A">
+      <S>-1.5625</S>
+      <C>-3.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="1" Frame="A">
+      <S>-1.75</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="2" Frame="A">
+      <S>-3.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="3" Frame="A">
+      <S>-3.1875</S>
+      <C>-4.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="0" Frame="A">
+      <S>-1.8125</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="1" Frame="A">
+      <S>-1.625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="2" Frame="A">
+      <S>-3.75</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="3" Frame="A">
+      <S>-3.4375</S>
+      <C>-5.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="0" Frame="A">
+      <S>-1.6875</S>
+      <C>-3.875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="1" Frame="A">
+      <S>-1.75</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="2" Frame="A">
+      <S>-3.875</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="3" Frame="A">
+      <S>-3.75</S>
+      <C>-5.5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="0" Frame="A">
+      <S>-1.5625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="1" Frame="A">
+      <S>-1.625</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="2" Frame="A">
+      <S>-4.25</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="3" Frame="A">
+      <S>-3.75</S>
+      <C>-5.3125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="0" Frame="A">
+      <S>-1.6875</S>
+      <C>-4.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="1" Frame="A">
+      <S>-1.75</S>
+      <C>-4.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="2" Frame="A">
+      <S>-4.375</S>
+      <C>-6.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="3" Frame="A">
+      <S>-3.9375</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="0" Frame="A">
+      <S>-2.0625</S>
+      <C>-4.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="1" Frame="A">
+      <S>-2</S>
+      <C>-4.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="2" Frame="A">
+      <S>-4.5</S>
+      <C>-6.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="3" Frame="A">
+      <S>-4.1875</S>
+      <C>-5.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="0" Frame="A">
+      <S>-2.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="1" Frame="A">
+      <S>-2.25</S>
+      <C>-5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="2" Frame="A">
+      <S>-5.0625</S>
+      <C>-7</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="3" Frame="A">
+      <S>-4.8125</S>
+      <C>-6.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="0" Frame="A">
+      <S>-3.25</S>
+      <C>-5.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="1" Frame="A">
+      <S>-3.0625</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="2" Frame="A">
+      <S>-5.125</S>
+      <C>-7.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="3" Frame="A">
+      <S>-4.9375</S>
+      <C>-7.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="0" Frame="B">
+      <S>-1.5625</S>
+      <C>-3.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="1" Frame="B">
+      <S>-1.75</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="2" Frame="B">
+      <S>-3.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="0" Y="3" Frame="B">
+      <S>-3.1875</S>
+      <C>-4.75</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="0" Frame="B">
+      <S>-1.8125</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="1" Frame="B">
+      <S>-1.625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="2" Frame="B">
+      <S>-3.75</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="1" Y="3" Frame="B">
+      <S>-3.4375</S>
+      <C>-5.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="0" Frame="B">
+      <S>-1.6875</S>
+      <C>-3.875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="1" Frame="B">
+      <S>-1.75</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="2" Frame="B">
+      <S>-3.875</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="2" Y="3" Frame="B">
+      <S>-3.75</S>
+      <C>-5.5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="0" Frame="B">
+      <S>-1.5625</S>
+      <C>-3.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="1" Frame="B">
+      <S>-1.625</S>
+      <C>-3.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="2" Frame="B">
+      <S>-4.25</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="3" Y="3" Frame="B">
+      <S>-3.75</S>
+      <C>-5.3125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="0" Frame="B">
+      <S>-1.6875</S>
+      <C>-4.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="1" Frame="B">
+      <S>-1.75</S>
+      <C>-4.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="2" Frame="B">
+      <S>-4.375</S>
+      <C>-6.0625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="4" Y="3" Frame="B">
+      <S>-3.9375</S>
+      <C>-5.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="0" Frame="B">
+      <S>-2.0625</S>
+      <C>-4.4375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="1" Frame="B">
+      <S>-2</S>
+      <C>-4.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="2" Frame="B">
+      <S>-4.5</S>
+      <C>-6.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="5" Y="3" Frame="B">
+      <S>-4.1875</S>
+      <C>-5.9375</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="0" Frame="B">
+      <S>-2.5</S>
+      <C>-5.125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="1" Frame="B">
+      <S>-2.25</S>
+      <C>-5</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="2" Frame="B">
+      <S>-5.0625</S>
+      <C>-7</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="6" Y="3" Frame="B">
+      <S>-4.8125</S>
+      <C>-6.8125</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="0" Frame="B">
+      <S>-3.25</S>
+      <C>-5.5625</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="1" Frame="B">
+      <S>-3.0625</S>
+      <C>-5.6875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="2" Frame="B">
+      <S>-5.125</S>
+      <C>-7.1875</C>
+    </ArgusCalibrationXtalkVector>
+    <ArgusCalibrationXtalkVector X="7" Y="3" Frame="B">
+      <S>-4.9375</S>
+      <C>-7.0625</C>
+    </ArgusCalibrationXtalkVector>
+  </TotalXtalk>
+</ArgusCalibrationXtalk>
