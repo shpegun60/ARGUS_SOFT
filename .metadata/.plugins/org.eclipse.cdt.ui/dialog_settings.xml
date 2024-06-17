@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="${workspace_loc:/${ProjName}/utility}"/>
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="${workspace_loc:/${ProjName}/app_core/KBus}"/>
 	<item key="LastUsedHeaderTemplate" value="Default C++ header template"/>
 	<section name="completion_proposal_size">
 	</section>
@@ -18,6 +18,17 @@
 		<item key="caseSensitive" value="false"/>
 		<item key="searchFlags" value="227191"/>
 		<list key="previousPatterns">
+			<item value="SCI_Printf"/>
+			<item value="ExplorerApp_InitTasks"/>
+			<item value="SCI_SetRxCommandCallback"/>
+			<item value="SCI_RxCallback"/>
+			<item value="UART_SetRxCallback"/>
+			<item value="SCI_SetErrorCallback"/>
+			<item value="SCI_ErrorCallback"/>
+			<item value="TxCallback"/>
+			<item value="Argus_GetExternalCrosstalk"/>
+			<item value="NVM_WriteBlock"/>
+			<item value="Argus_XtalkCalibration_CLI"/>
 			<item value="ExplorerAPI_InitCfg"/>
 			<item value="PrxCmd_CfgUart"/>
 			<item value="nitTime:"/>

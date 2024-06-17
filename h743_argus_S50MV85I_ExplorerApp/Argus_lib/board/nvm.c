@@ -165,7 +165,7 @@ status_t NVM_WriteBlock(uint32_t device_id, uint32_t block_size, uint8_t const *
 //    /* Write Data. */
 //    return Flash_Write(FLASH_API_BLOCK_INDEX, slot_idx, data, FLASH_BLOCK_SIZE);
 	/////////////////////////////////////////////////////////
-	return STATUS_OK;
+	return ERROR_NOT_IMPLEMENTED;
 }
 
 status_t NVM_ReadBlock(uint32_t device_id, uint32_t block_size, uint8_t * buf)
@@ -199,5 +199,5 @@ status_t NVM_ReadBlock(uint32_t device_id, uint32_t block_size, uint8_t * buf)
 //    return status;
 
 	/////////////////////////////////////////////////////////
-	return STATUS_OK;
+	return ERROR_NOT_IMPLEMENTED;
 }

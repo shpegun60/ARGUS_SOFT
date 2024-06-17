@@ -44,7 +44,7 @@
 #endif
 
 #if RUN_XTALK_CALIBRATION
-#include "argus_xtalk_cal_cli.h"
+#include "xtalk-cli/argus_xtalk_cal_cli.h"
 #endif
 
 /*!***************************************************************************

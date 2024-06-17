@@ -232,6 +232,10 @@ status_t ExplorerApp_InitDevice(explorer_t * explorer, argus_mode_t mode, bool r
         return status;
     }
 
+    /// Shpegun60 -----------------------------------------------------
+    Argus_SetConfigurationDFMMode(explorer->Argus, DFM_MODE_OFF);
+    //-----------------------------------------------------------------
+
     ExplorerApp_ResetDefaultDataStreamingMode(explorer);
     ExplorerApp_DisplayUnambiguousRange(explorer->Argus);
 

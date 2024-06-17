@@ -46,6 +46,7 @@ Argus_lib/ExplorerApp \
 Argus_lib/ExplorerApp/core \
 Argus_lib/ExplorerApp/sci \
 Argus_lib/ExplorerApp/tasks \
+Argus_lib/Xtalk-CLI \
 Argus_lib/board \
 Argus_lib/test \
 Argus_lib/utility \

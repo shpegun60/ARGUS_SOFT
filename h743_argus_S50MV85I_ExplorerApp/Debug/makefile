@@ -17,6 +17,7 @@ RM := rm -rf
 -include Argus_lib/utility/subdir.mk
 -include Argus_lib/test/subdir.mk
 -include Argus_lib/board/subdir.mk
+-include Argus_lib/Xtalk-CLI/subdir.mk
 -include Argus_lib/ExplorerApp/tasks/subdir.mk
 -include Argus_lib/ExplorerApp/sci/subdir.mk
 -include Argus_lib/ExplorerApp/core/subdir.mk

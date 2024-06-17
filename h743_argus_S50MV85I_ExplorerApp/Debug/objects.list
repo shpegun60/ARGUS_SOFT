@@ -26,6 +26,7 @@
 "./Argus_lib/ExplorerApp/sci/sci_log.o"
 "./Argus_lib/ExplorerApp/tasks/task_profiler.o"
 "./Argus_lib/ExplorerApp/tasks/task_scheduler.o"
+"./Argus_lib/Xtalk-CLI/argus_xtalk_cal_cli.o"
 "./Argus_lib/board/board.o"
 "./Argus_lib/board/irq.o"
 "./Argus_lib/board/nvm.o"

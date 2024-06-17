@@ -102,7 +102,7 @@ status_t SCI_SendLogEntry(const char *fmt_s, ...)
     return status;
 }
 
-
+#if NO_DIRECT_UART_PRINT
 status_t print(const char  *fmt_s, ...)
 {
     va_list  ap;
@@ -111,6 +111,8 @@ status_t print(const char  *fmt_s, ...)
     va_end(ap);
     return status;
 }
+#endif
+
 static inline status_t vprint(const char *fmt_s, va_list ap)
 {
     /* sending a log message in formated printf style */
